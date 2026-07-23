@@ -1,6 +1,6 @@
 ### Hi, I'm Enya 👋
 
-Transitioning into cybersecurity (SOC analyst track) — currently building hands-on skills through self-directed labs, real PCAP/log analysis, and independent development projects.
+Transitioning into cybersecurity (SOC analyst track,) building hands-on skills through self-directed labs, real PCAP/log analysis, and independent development projects.
 
 **Currently:**
 - 📚 Studying for CompTIA Security+ (Coursera)
