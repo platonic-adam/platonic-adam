@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Enya 👋
 
-<!--
-**platonic-adam/platonic-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transitioning into cybersecurity (SOC analyst track) — currently building hands-on skills through self-directed labs, real PCAP/log analysis, and independent development projects.
 
-Here are some ideas to get you started:
+**Currently:**
+- 📚 Studying for CompTIA Security+ (Coursera)
+- 🔍 Practicing SOC workflows: PCAP analysis, DNS tunneling & C2 beaconing detection, incident response documentation
+- 🛠️ Building full-stack apps to sharpen the dev side of security (backend logic, APIs, cloud config)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Toolset:**
+`Wireshark` `Splunk` `Microsoft Sentinel` `Snort/Suricata` `MITRE ATT&CK` `Python` `Cloudflare` `Supabase`
+
+**Pinned below:** a mix of security analysis writeups and independent dev projects — each README explains what it does, why I built it, and what I'd improve next.
+
+📫 Reach me: [your email]  •  🎯 TryHackMe: [tryhackme.com/p/yourhandle]
