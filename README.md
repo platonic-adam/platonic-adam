@@ -12,4 +12,4 @@ Transitioning into cybersecurity (SOC analyst track) — currently building hand
 
 **Pinned below:** a mix of security analysis writeups and independent dev projects — each README explains what it does, why I built it, and what I'd improve next.
 
-📫 Reach me: [your email]  •  🎯 TryHackMe: [tryhackme.com/p/yourhandle]
+📫 Reach me: enyamegan@protonmail.com  •  🎯 TryHackMe: [tryhackme.com/p/yourhandle]
