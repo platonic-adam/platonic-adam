@@ -1,4 +1,4 @@
-### Hi, I'm Enya 👋
+## Hi, I'm Enya 👋
 
 Transitioning into cybersecurity (SOC analyst track,) building hands-on skills through self-directed labs, real PCAP/log analysis, and independent development projects.
 
@@ -11,5 +11,7 @@ Transitioning into cybersecurity (SOC analyst track,) building hands-on skills t
 `Wireshark` `Splunk` `Microsoft Sentinel` `Snort/Suricata` `MITRE ATT&CK` `Python` `Cloudflare` `Supabase`
 
 **Pinned below:** a mix of security analysis writeups and independent dev projects — each README explains what it does, why I built it, and what I'd improve next.
+
+ [soc-analyst-portfolio](https://github.com/platonic-adam/soc-analyst-portfolio)
 
 📫 Reach me: enyamegan@protonmail.com  •  🎯 TryHackMe: [tryhackme.com/p/yourhandle]
